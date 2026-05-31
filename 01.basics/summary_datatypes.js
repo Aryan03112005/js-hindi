@@ -6,3 +6,8 @@
 
 //non primtive(reference types)
 //arrays,objects,Functions
+
+// +++++++++++++++++++++++++++++++
+ //memory organisation
+//  1)Stack(for primitive datatyopes)->copy milt h and changes bhi usi me hote
+//  2)heap(for non primitive datatypes)->original value me changes hote hai!!!!!! and reference bhi original ka milta
