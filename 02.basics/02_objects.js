@@ -1,7 +1,7 @@
 //when we declare objects in litterals then singelton not formed
 //if in contructrs then ->yes singleton
 
-
+// here we r using as ltterals 
 const mysymbol=Symbol("key1")//written this to declare symbol inside object
 const jsuser={
     name:"aryan",// all act as a string
